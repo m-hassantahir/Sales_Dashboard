@@ -1,0 +1,501 @@
+﻿Order ID,Order Date,CustomerName,State,City
+B-26055,10/3/2018,Clementine Booker,NY,New York
+B-25993,3/2/2018,Dominik Escobar,CA,Los Angeles
+B-25973,24-01-2018,Erin Olsen,NY,New York
+B-25923,27-12-2018,Skyler Curtis,IL,Chicago
+B-25757,21-08-2018,Alexis Fowler,TX,Houston
+B-25967,21-01-2018,Kameron Wagner,AZ,Phoenix
+B-25955,16-01-2018,Maeve Perez,PA,Philadelphia
+B-26093,27-03-2018,Owen Bradford,PA,Philadelphia
+B-25798,1/10/2018,Rhea Ross,TX,San Antonio
+B-25602,1/4/2018,Wesley Ho,PA,Philadelphia
+B-25858,13-11-2018,Calliope Rasmussen,IL,Chicago
+B-25969,21-01-2018,Will Crane,CA,San Diego
+B-26099,30-03-2018,Della Cannon,IL,Chicago
+B-25997,4/2/2018,Archie Rollins,PA,Philadelphia
+B-25881,25-11-2018,Araceli Kim,NY,New York
+B-25761,25-08-2018,Dominik Escobar,NY,New York
+B-25887,1/12/2018,Alexis Fowler,AZ,Phoenix
+B-25823,18-10-2018,Roman Tran,IL,Chicago
+B-25853,8/11/2018,Kylie Farrell,TX,Dallas
+B-25862,15-11-2018,Ty Mathews,FL,Jacksonville
+B-25830,26-10-2018,Sloan Farmer,TX,Austin
+B-25786,19-09-2018,Erin Olsen,NY,New York
+B-25686,11/6/2018,Jamison Fischer,TX,Austin
+B-26022,18-02-2018,Maci Conner,TX,Fort Worth
+B-26003,8/2/2018,Phillip Ramirez,CA,San Jose
+B-25755,19-08-2018,Grace Hale,OH,Columbus
+B-25902,10/12/2018,Ezequiel Marks,IL,Chicago
+B-25935,4/1/2018,Monica Zamora,NC,Charlotte
+B-25797,30-09-2018,Quentin Rivers,TX,Houston
+B-25639,27-04-2018,Kiana Lawson,CA,San Jose
+B-25681,4/6/2018,Lane Wiley,TX,Houston
+B-25909,13-12-2018,Lauryn Friedman,PA,Philadelphia
+B-25910,14-12-2018,Darwin Sutton,CA,Los Angeles
+B-25950,13-01-2018,Izabella Santos,TX,Houston
+B-25613,12/4/2018,Walker McPherson,TX,Fort Worth
+B-25919,23-12-2018,Emmaline Marsh,IN,Indianapolis
+B-25768,1/9/2018,Bo Bruce,CA,San Francisco
+B-25629,24-04-2018,Marilyn Erickson,OH,Columbus
+B-25729,22-07-2018,Johnny Griffith,CA,San Jose
+B-25943,9/1/2018,Alicia Dudley,TX,Dallas
+B-25842,2/11/2018,Colter Acevedo,PA,Philadelphia
+B-26073,21-03-2018,Ashlynn Arias,TX,Houston
+B-25778,11/9/2018,Alec Fowler,IL,Chicago
+B-25717,12/7/2018,Lennon Austin,WA,Seattle
+B-26085,26-03-2018,Maci Conner,TX,Fort Worth
+B-26048,4/3/2018,Omar Martin,PA,Philadelphia
+B-25793,24-09-2018,Mila Livingston,TX,Houston
+B-25656,11/5/2018,Ambrose Summers,PA,Philadelphia
+B-25608,8/4/2018,Frankie Robertson,CO,Denver
+B-25752,14-08-2018,Emiliano Barnes,TX,Houston
+B-25779,12/9/2018,Liliana Quinn,PA,Philadelphia
+B-25603,3/4/2018,Rhys James,CA,San Jose
+B-26051,7/3/2018,Quinn Stanton,OK,Oklahoma City
+B-25653,8/5/2018,Zyair Truong,NC,Charlotte
+B-25855,8/11/2018,Judith Bond,CA,San Jose
+B-25762,26-08-2018,Roger Everett,TX,Houston
+B-25995,4/2/2018,Noah Gaines,CA,Los Angeles
+B-25929,2/1/2018,Talon Enriquez,OH,Columbus
+B-26006,9/2/2018,Nellie Castillo,CA,San Francisco
+B-25697,22-06-2018,Kai Frederick,TN,Nashville
+B-25836,29-10-2018,Sariyah Grimes,PA,Philadelphia
+B-25601,1/4/2018,Harlan Nava,TX,Dallas
+B-25873,23-11-2018,Scout Jefferson,TX,Houston
+B-26028,20-02-2018,Raylan Martinez,TX,San Antonio
+B-25964,20-01-2018,Harper Compton,PA,Philadelphia
+B-25676,1/6/2018,Abner Shields,DC,Washington
+B-25839,30-10-2018,Analia Chapman,OK,Oklahoma City
+B-25894,4/12/2018,Knox Melton,TX,El Paso
+B-25925,29-12-2018,Izabella Santos,IL,Chicago
+B-25953,14-01-2018,Kamiyah Lawrence,TX,San Antonio
+B-25772,2/9/2018,Kaleb Campbell,FL,Jacksonville
+B-25957,18-01-2018,Addison McCullough,TX,Houston
+B-25730,22-07-2018,Briar Choi,DC,Washington
+B-25877,24-11-2018,Karla Garrett,CA,San Diego
+B-26067,16-03-2018,Kairo Boyle,CA,San Jose
+B-25810,10/10/2018,Aliya O’Connell,TX,Fort Worth
+B-25868,18-11-2018,Jovanni Mata,NV,Las Vegas
+B-26023,19-02-2018,Lillie Holland,TX,Fort Worth
+B-25626,23-04-2018,Della Cannon,IL,Chicago
+B-25937,5/1/2018,Brady Wilkinson,TX,Fort Worth
+B-25610,9/4/2018,Archie Rollins,FL,Jacksonville
+B-25777,10/9/2018,Siena Kaur,TX,Houston
+B-25738,2/8/2018,Augustine Ochoa,TX,Fort Worth
+B-25978,27-01-2018,Luciana Snow,IL,Chicago
+B-25643,29-04-2018,Houston Malone,TN,Nashville
+B-25728,22-07-2018,Skyler Mays,PA,Philadelphia
+B-25749,13-08-2018,Augustine Ochoa,IL,Chicago
+B-25667,23-05-2018,Jadiel Reilly,TX,Fort Worth
+B-25657,13-05-2018,Kairo Boyle,CA,San Jose
+B-25753,17-08-2018,Tori Curry,WA,Seattle
+B-26061,14-03-2018,Briggs Blankenship,TX,Houston
+B-25838,29-10-2018,Kaleb Campbell,TX,Houston
+B-25702,27-06-2018,Rosalee Larsen,IL,Chicago
+B-25952,13-01-2018,Ambrose Summers,TX,Houston
+B-25666,22-05-2018,Brycen Collins,TX,Fort Worth
+B-25675,31-05-2018,Kinsley Francis,CA,San Jose
+B-25650,6/5/2018,Harvey Tyler,IL,Chicago
+B-25986,31-01-2018,Helena Duarte,IN,Indianapolis
+B-25850,5/11/2018,Abdullah Castillo,NV,Las Vegas
+B-25898,7/12/2018,Abdullah Castillo,IN,Indianapolis
+B-25813,10/10/2018,Eva Valenzuela,IL,Chicago
+B-25825,21-10-2018,Jamari Maynard,TX,Houston
+B-25954,14-01-2018,Carolyn Cain,TX,Dallas
+B-25696,21-06-2018,Benson Gordon,CA,San Francisco
+B-25638,26-04-2018,Omar Martin,PA,Philadelphia
+B-25747,11/8/2018,Taylor Buck,CA,San Jose
+B-25904,10/12/2018,Jon Church,CA,Los Angeles
+B-25852,7/11/2018,Ayleen Vasquez,TX,San Antonio
+B-25981,28-01-2018,Rowan Nielsen,CA,Los Angeles
+B-25899,8/12/2018,Vienna Bautista,AZ,Phoenix
+B-25870,20-11-2018,Raul Chung,TX,San Antonio
+B-26040,26-02-2018,Rivka Jaramillo,TX,Fort Worth
+B-25671,27-05-2018,Riggs Fitzgerald,NC,Charlotte
+B-26100,31-03-2018,Marlee Chen,TX,Houston
+B-25651,7/5/2018,Briggs Blankenship,TX,Houston
+B-25968,21-01-2018,Emmanuel Daniels,TX,El Paso
+B-26019,15-02-2018,Ember Ashley,WA,Seattle
+B-25664,20-05-2018,Kylen McIntosh,FL,Jacksonville
+B-26033,22-02-2018,Gwen Gregory,OK,Oklahoma City
+B-26052,8/3/2018,Travis Harris,CA,San Francisco
+B-25999,5/2/2018,Penelope O’Donnell,CA,Los Angeles
+B-25781,14-09-2018,Lian Love,TX,Dallas
+B-25764,28-08-2018,Avianna Ballard,PA,Philadelphia
+B-25803,5/10/2018,Kenzo Hodge,TX,Houston
+B-25945,11/1/2018,Coraline Page,TX,Houston
+B-26086,26-03-2018,Lillie Holland,TX,Fort Worth
+B-25845,3/11/2018,Pablo Robles,OH,Columbus
+B-25817,13-10-2018,Felicity Olson,IL,Chicago
+B-25951,13-01-2018,Malachi Leon,OK,Oklahoma City
+B-25970,22-01-2018,Amora Morrison,IL,Chicago
+B-25878,24-11-2018,Maximus Dalton,IL,Chicago
+B-26057,10/3/2018,Lilian Barr,OH,Columbus
+B-25885,28-11-2018,Harley Curry,TX,Houston
+B-25897,6/12/2018,Roman Tran,TX,Houston
+B-25756,20-08-2018,Walker McPherson,IL,Chicago
+B-25859,14-11-2018,Alison Buck,TX,Houston
+B-25691,16-06-2018,Jon Krueger,IL,Chicago
+B-25633,26-04-2018,Kamari Delarosa,MA,Boston
+B-25708,1/7/2018,Osiris Golden,TX,Houston
+B-25831,27-10-2018,Addison McCullough,MA,Boston
+B-25856,10/11/2018,Judith Bond,IL,Chicago
+B-25893,4/12/2018,Wesley Ho,NY,New York
+B-25959,18-01-2018,Giuliana Hoover,TX,Houston
+B-26000,6/2/2018,Jaziel Harrington,CA,Los Angeles
+B-26097,28-03-2018,Legacy Stanley,CA,San Francisco
+B-25745,9/8/2018,Jamari Maynard,TX,Dallas
+B-25974,25-01-2018,Manuel Pollard,IN,Indianapolis
+B-25670,25-05-2018,Marisol Willis,NV,Las Vegas
+B-25848,3/11/2018,Roman Tran,TX,Austin
+B-25888,2/12/2018,Roman Tran,TX,El Paso
+B-25942,8/1/2018,Remington Garrison,TX,San Antonio
+B-25847,3/11/2018,Cadence King,TX,Fort Worth
+B-25636,26-04-2018,Julian Moses,IL,Chicago
+B-25826,22-10-2018,Karter Wise,IL,Chicago
+B-26081,22-03-2018,Frankie Robertson,CO,Denver
+B-25625,23-04-2018,Frederick Cohen,TN,Nashville
+B-25802,5/10/2018,Destiny Rush,IL,Chicago
+B-25693,18-06-2018,Kaiser Dennis,CA,San Jose
+B-25796,24-09-2018,Maisie Shepard,IL,Chicago
+B-25806,6/10/2018,Damari Kramer,TX,Houston
+B-25710,5/7/2018,Hanna Castro,PA,Philadelphia
+B-25669,25-05-2018,Jasper Simon,MA,Boston
+B-25857,10/11/2018,Kalani Preston,TX,Houston
+B-25785,15-09-2018,Augustine Ochoa,OK,Oklahoma City
+B-25930,3/1/2018,Vincenzo Holt,TX,Fort Worth
+B-26053,9/3/2018,Houston Malone,TN,Nashville
+B-26070,18-03-2018,Izabella Santos,CA,San Francisco
+B-25791,24-09-2018,Adelynn Snow,OH,Columbus
+B-25983,30-01-2018,Houston Owens,CA,Los Angeles
+B-25979,27-01-2018,Amaya Curry,TX,Houston
+B-26054,10/3/2018,Briggs Scott,IL,Chicago
+B-26078,22-03-2018,Aurora Lin,OK,Oklahoma City
+B-25787,20-09-2018,Conor Herrera,TN,Nashville
+B-25682,7/6/2018,Kamiyah Lawrence,FL,Jacksonville
+B-25962,19-01-2018,Ximena Olsen,PA,Philadelphia
+B-25750,14-08-2018,Skyler Bradford,TX,Houston
+B-25828,24-10-2018,Rhea McCoy,TX,Fort Worth
+B-25622,22-04-2018,Jett Singh,DC,Washington
+B-25751,14-08-2018,Vivienne Montgomery,IL,Chicago
+B-25685,10/6/2018,Colter Acevedo,TX,Houston
+B-26010,11/2/2018,Maximiliano Austin,FL,Jacksonville
+B-26035,23-02-2018,Frederick Cohen,TN,Nashville
+B-25698,23-06-2018,Alivia Mejia,CO,Denver
+B-25966,21-01-2018,Atticus Hurley,IN,Indianapolis
+B-25832,28-10-2018,Rylan Valencia,IL,Chicago
+B-25743,7/8/2018,Dax Reese,NC,Charlotte
+B-25886,28-11-2018,Rosemary Small,IN,Indianapolis
+B-25975,25-01-2018,Ambrose Summers,AZ,Phoenix
+B-26098,29-03-2018,Frederick Cohen,TN,Nashville
+B-25614,13-04-2018,Rudy Hines,TX,Austin
+B-25726,21-07-2018,Poppy Mora,IL,Chicago
+B-26050,6/3/2018,Arturo Nichols,DC,Washington
+B-25609,9/4/2018,Ember Ashley,WA,Seattle
+B-25741,3/8/2018,Aliyah Guerra,TX,Houston
+B-25956,17-01-2018,Kinsley Francis,IL,Chicago
+B-25689,14-06-2018,Leland Hart,IL,Chicago
+B-25939,5/1/2018,Gemma Herman,MA,Boston
+B-25890,4/12/2018,Juelz Snow,IL,Chicago
+B-25814,10/10/2018,Jon Church,TX,Houston
+B-25718,12/7/2018,Jadiel Reilly,IL,Chicago
+B-25914,18-12-2018,Alexia Rubio,CA,Los Angeles
+B-25903,10/12/2018,Titan Mann,TX,Houston
+B-26096,28-03-2018,Gwen Gregory,OK,Oklahoma City
+B-25654,10/5/2018,Paislee Schmitt,IL,Chicago
+B-26076,21-03-2018,Rhys James,CA,San Jose
+B-25961,18-01-2018,Murphy Farley,TX,Dallas
+B-25854,8/11/2018,Jaziel Harrington,PA,Philadelphia
+B-25642,28-04-2018,Travis Harris,CA,San Francisco
+B-25683,8/6/2018,Kinsley Francis,OH,Columbus
+B-26016,14-02-2018,Wrenley Mosley,CA,San Francisco
+B-26034,23-02-2018,Legacy Stanley,CA,San Francisco
+B-26056,10/3/2018,Rayden Buchanan,FL,Jacksonville
+B-25819,15-10-2018,Remington Garrison,CA,San Jose
+B-25715,10/7/2018,Maryam Daniel,TN,Nashville
+B-25933,4/1/2018,Grady Farley,IL,Chicago
+B-26014,13-02-2018,Wrenley Leon,DC,Washington
+B-25655,11/5/2018,Marshall Young,TX,Houston
+B-25816,12/10/2018,Zoey Crosby,TX,San Antonio
+B-25634,26-04-2018,Tristen Osborne,NV,Las Vegas
+B-25895,4/12/2018,Shelby Herring,CA,San Diego
+B-25687,11/6/2018,Henrik McKenzie,IL,Chicago
+B-25662,17-05-2018,Briar Dickson,IL,Chicago
+B-25635,26-04-2018,Maxton O’Neill,NC,Charlotte
+B-26060,13-03-2018,Harvey Tyler,IL,Chicago
+B-26045,3/3/2018,Maxton O’Neill,NC,Charlotte
+B-25770,2/9/2018,Kenna Sexton,TX,Houston
+B-25744,8/8/2018,Mylo Villalobos,TX,San Antonio
+B-25618,18-04-2018,Raylan Martinez,TX,San Antonio
+B-25958,18-01-2018,Zoya Ortega,OK,Oklahoma City
+B-25769,2/9/2018,Murphy Farley,IL,Chicago
+B-25619,18-04-2018,Kobe Bowers,TX,Dallas
+B-25688,11/6/2018,Elisa Roberson,TX,Houston
+B-25829,25-10-2018,Shepherd Zhang,TX,Fort Worth
+B-26036,23-02-2018,Della Cannon,IL,Chicago
+B-25714,9/7/2018,Sarai McFarland,CA,San Francisco
+B-25989,1/2/2018,Jadiel Reilly,CA,Los Angeles
+B-25849,4/11/2018,Dane Rosales,MA,Boston
+B-25851,6/11/2018,Kinley Gonzalez,NC,Charlotte
+B-25782,15-09-2018,Ethan David,IL,Chicago
+B-25621,20-04-2018,Haylee Kirk,CA,San Jose
+B-25996,4/2/2018,Alessandro Stout,CA,Los Angeles
+B-25678,3/6/2018,Chana Dawson,CA,San Francisco
+B-25727,22-07-2018,Iker Salas,TX,Houston
+B-26018,14-02-2018,Frankie Robertson,CO,Denver
+B-25760,24-08-2018,Jamison Fischer,NV,Las Vegas
+B-25804,5/10/2018,Amber Best,CA,San Francisco
+B-25754,18-08-2018,Harlem Zamora,FL,Jacksonville
+B-26020,16-02-2018,Archie Rollins,FL,Jacksonville
+B-25640,27-04-2018,Arturo Nichols,DC,Washington
+B-25789,22-09-2018,Harlem Zamora,WA,Seattle
+B-26072,20-03-2018,Briar Dickson,IL,Chicago
+B-26007,9/2/2018,Jaziel Harrington,TN,Nashville
+B-26087,26-03-2018,Rudy Hines,TX,Austin
+B-25617,17-04-2018,Sierra Jarvis,NC,Charlotte
+B-25984,30-01-2018,Alexia Rubio,CA,Los Angeles
+B-25767,31-08-2018,Marlon Archer,OK,Oklahoma City
+B-25987,31-01-2018,Kadence Phelps,CA,Los Angeles
+B-25840,31-10-2018,Hamza Cooper,CA,San Francisco
+B-25663,19-05-2018,Ashlynn Arias,TX,Houston
+B-26030,21-02-2018,Owen Bradford,PA,Philadelphia
+B-25947,13-01-2018,Serenity Rose,TX,Dallas
+B-25896,5/12/2018,Dax Reese,IL,Chicago
+B-26009,10/2/2018,Hayden Baker,WA,Seattle
+B-25876,24-11-2018,Isla Combs,TX,El Paso
+B-25915,19-12-2018,Ahmad Parra,TX,El Paso
+B-25795,24-09-2018,Dalary Cortez,MA,Boston
+B-26002,8/2/2018,Taylor Buck,CA,Los Angeles
+B-25645,1/5/2018,Zayn Greene,TX,Houston
+B-25837,29-10-2018,Selena Coffey,IL,Chicago
+B-25612,12/4/2018,Maci Conner,TX,Fort Worth
+B-25812,10/10/2018,Kody Ahmed,TX,Houston
+B-25843,3/11/2018,Jolie Jenkins,IL,Chicago
+B-26026,19-02-2018,Declan Morris,NV,Las Vegas
+B-25773,6/9/2018,Kinsley Francis,OH,Columbus
+B-25875,24-11-2018,Genesis Todd,AZ,Phoenix
+B-25660,16-05-2018,Izabella Santos,CA,San Francisco
+B-25918,22-12-2018,Baylor Ahmed,TX,Houston
+B-25971,22-01-2018,Riggs Fitzgerald,TX,Houston
+B-26063,15-03-2018,Zyair Truong,NC,Charlotte
+B-25867,17-11-2018,Brady Wilkinson,MA,Boston
+B-25703,28-06-2018,Jolie Russo,TX,Houston
+B-25661,17-05-2018,Jamie Esquivel,TN,Nashville
+B-25748,12/8/2018,Jaylee Vo,DC,Washington
+B-25766,30-08-2018,Alec Fowler,DC,Washington
+B-25861,15-11-2018,Gordon Suarez,WA,Seattle
+B-26058,11/3/2018,Jimena Delarosa,TX,Fort Worth
+B-25808,8/10/2018,Osiris Love,FL,Jacksonville
+B-25900,9/12/2018,Kalani Preston,TX,El Paso
+B-26084,25-03-2018,Avianna Lawrence,OH,Columbus
+B-25652,8/5/2018,Kaleb Fleming,NV,Las Vegas
+B-26008,9/2/2018,Fatima Ayala,CO,Denver
+B-25799,1/10/2018,Tanner Sellers,TX,Dallas
+B-25927,31-12-2018,Kinsley Francis,WA,Seattle
+B-25985,31-01-2018,Mercy Pope,TX,Houston
+B-25994,3/2/2018,Gunnar Rasmussen,CA,Los Angeles
+B-25620,20-04-2018,Owen Bradford,PA,Philadelphia
+B-25712,7/7/2018,Esperanza McCormick,DC,Washington
+B-25976,25-01-2018,Jasiah Harmon,TX,El Paso
+B-26068,16-03-2018,Maren Bautista,DC,Washington
+B-25721,16-07-2018,Raul Lee,TX,Fort Worth
+B-25863,15-11-2018,Scarlett Shah,OH,Columbus
+B-25991,3/2/2018,Zain Ortega,TX,Houston
+B-25737,1/8/2018,Jaziel Harrington,TX,Houston
+B-26043,1/3/2018,Kamari Delarosa,MA,Boston
+B-25977,27-01-2018,Ethan David,CA,San Diego
+B-25908,12/12/2018,Lilah Perez,CA,Los Angeles
+B-25941,7/1/2018,Owen Kirby,NC,Charlotte
+B-25794,24-09-2018,Jimena Delarosa,TX,Austin
+B-26041,27-02-2018,Skyla Cameron,TX,Fort Worth
+B-25695,18-06-2018,Rayan Vazquez,OK,Oklahoma City
+B-25960,18-01-2018,Kinsley Francis,TX,San Antonio
+B-26037,23-02-2018,Marlee Chen,TX,Houston
+B-25921,25-12-2018,Journee Soto,TX,El Paso
+B-25944,10/1/2018,Barrett Franklin,PA,Philadelphia
+B-25724,19-07-2018,Colter Acevedo,TX,Houston
+B-26024,19-02-2018,Rudy Hines,TX,Austin
+B-25694,18-06-2018,Angela Sullivan,DC,Washington
+B-25665,21-05-2018,Evan Winters,OH,Columbus
+B-26004,8/2/2018,Kataleya Garner,DC,Washington
+B-25611,11/4/2018,Avianna Lawrence,OH,Columbus
+B-25901,10/12/2018,Sage Haley,CA,San Diego
+B-25623,22-04-2018,Gwen Gregory,OK,Oklahoma City
+B-25713,8/7/2018,Addilynn Fischer,OK,Oklahoma City
+B-26091,27-03-2018,Raylan Martinez,TX,San Antonio
+B-25604,3/4/2018,Wrenley Leon,DC,Washington
+B-25827,23-10-2018,Colter Acevedo,TX,Houston
+B-25835,29-10-2018,Leonidas Gates,TX,Dallas
+B-26025,19-02-2018,Melina Wiggins,MA,Boston
+B-25809,9/10/2018,Azariah Meyer,OH,Columbus
+B-25905,11/12/2018,Sara Walls,CA,Los Angeles
+B-25948,13-01-2018,Larry Johnston,PA,Philadelphia
+B-26094,27-03-2018,Haylee Kirk,CA,San Jose
+B-25949,13-01-2018,Laila Brown,IL,Chicago
+B-26001,7/2/2018,Elijah Graves,CA,Los Angeles
+B-25771,2/9/2018,Elle Macias,WA,Seattle
+B-25659,15-05-2018,Moshe Curry,OK,Oklahoma City
+B-25924,28-12-2018,Alison Barnes,CA,San Francisco
+B-25883,27-11-2018,Damian Chandler,CA,San Diego
+B-25946,12/1/2018,Viviana Freeman,TX,San Antonio
+B-26065,16-03-2018,Marshall Young,TX,Houston
+B-26083,24-03-2018,Archie Rollins,FL,Jacksonville
+B-25725,20-07-2018,Jayce Hubbard,NC,Charlotte
+B-25630,24-04-2018,Rivka Jaramillo,TX,Fort Worth
+B-25673,28-05-2018,Rosie Beltran,TX,Dallas
+B-25692,17-06-2018,Ricky Oliver,TX,Houston
+B-25992,3/2/2018,Kylie Farrell,IN,Indianapolis
+B-25765,29-08-2018,Camille Heath,CA,San Jose
+B-25892,4/12/2018,Siena Kaur,IN,Indianapolis
+B-26089,26-03-2018,Declan Morris,NV,Las Vegas
+B-25780,13-09-2018,Lionel Osborne,TX,San Antonio
+B-25684,9/6/2018,Shelby Donaldson,IL,Chicago
+B-25739,3/8/2018,Canaan Wells,TX,Fort Worth
+B-25731,26-07-2018,Cecilia Vo,OK,Oklahoma City
+B-25648,4/5/2018,Jimena Delarosa,TX,Fort Worth
+B-26038,24-02-2018,Jamison Fischer,FL,Jacksonville
+B-25700,25-06-2018,Gordon Rios,IL,Chicago
+B-26015,14-02-2018,Aurora Lin,OK,Oklahoma City
+B-25704,29-06-2018,Brooke Molina,IL,Chicago
+B-25811,10/10/2018,Prince Middleton,IL,Chicago
+B-25821,16-10-2018,Travis Harris,OK,Oklahoma City
+B-25874,24-11-2018,Hanna Castro,IN,Indianapolis
+B-25668,24-05-2018,Amora Morrison,TX,Austin
+B-25800,1/10/2018,Madalyn Clark,PA,Philadelphia
+B-25928,1/1/2018,John Bruce,FL,Jacksonville
+B-26021,17-02-2018,Avianna Lawrence,OH,Columbus
+B-26064,16-03-2018,Marilyn Truong,IL,Chicago
+B-25882,26-11-2018,Ayan Case,TX,El Paso
+B-25891,4/12/2018,Cleo Sawyer,TX,Houston
+B-25820,16-10-2018,Jefferson Friedman,DC,Washington
+B-25889,3/12/2018,Abdullah Castillo,CA,San Diego
+B-25871,21-11-2018,Aspyn Gross,CA,San Diego
+B-25637,26-04-2018,Quinn Holloway,TX,Houston
+B-25616,15-04-2018,Declan Morris,NV,Las Vegas
+B-25972,23-01-2018,Mae Romero,IN,Indianapolis
+B-25805,5/10/2018,Brady Wilkinson,IL,Chicago
+B-25860,15-11-2018,Harlem Zamora,CO,Denver
+B-26080,22-03-2018,Bryson Mayo,TN,Nashville
+B-25807,7/10/2018,Aarya Tang,WA,Seattle
+B-25734,29-07-2018,Raul Chung,TX,Houston
+B-25880,24-11-2018,Rogelio Torres,IN,Indianapolis
+B-25934,4/1/2018,Violet Wiley,TX,Houston
+B-25913,17-12-2018,Mathew Harvey,CA,Los Angeles
+B-25912,16-12-2018,Nicole Sellers,CA,Los Angeles
+B-25824,20-10-2018,Madden Duran,TX,Houston
+B-25711,6/7/2018,Kenna Sexton,CA,San Jose
+B-25864,15-11-2018,Willa Stark,IL,Chicago
+B-25917,21-12-2018,Tristen Osborne,IL,Chicago
+B-26049,5/3/2018,Kiana Lawson,CA,San Jose
+B-25920,24-12-2018,Kristopher Stone,AZ,Phoenix
+B-25699,24-06-2018,Catalina Burke,WA,Seattle
+B-25735,30-07-2018,Jax Yates,WA,Seattle
+B-25701,26-06-2018,Charley Deleon,TX,Houston
+B-26092,27-03-2018,Kobe Bowers,TX,Dallas
+B-26082,23-03-2018,Ember Ashley,WA,Seattle
+B-25818,14-10-2018,Nasir Vo,TX,Houston
+B-25846,3/11/2018,Artemis Ortega,TX,Fort Worth
+B-26011,12/2/2018,Harlan Nava,TX,Dallas
+B-25631,24-04-2018,Skyla Cameron,TX,Fort Worth
+B-25606,6/4/2018,Wrenley Mosley,CA,San Francisco
+B-25746,10/8/2018,Tori Curry,PA,Philadelphia
+B-26005,8/2/2018,Kobe Kim,OK,Oklahoma City
+B-25844,3/11/2018,Gabriella Greer,TX,Houston
+B-25869,19-11-2018,Koda Patterson,NC,Charlotte
+B-26066,16-03-2018,Ambrose Summers,PA,Philadelphia
+B-25865,15-11-2018,Kaylee Fry,TX,Houston
+B-26039,25-02-2018,Marilyn Erickson,OH,Columbus
+B-25916,20-12-2018,Jacoby Owens,CA,San Diego
+B-26090,27-03-2018,Sierra Jarvis,NC,Charlotte
+B-25988,31-01-2018,Amaya Guzman,CA,Los Angeles
+B-25906,11/12/2018,Jude Padilla,CA,Los Angeles
+B-26017,14-02-2018,Bryson Mayo,TN,Nashville
+B-25644,30-04-2018,Briggs Scott,IL,Chicago
+B-25679,4/6/2018,Maggie McPherson,IL,Chicago
+B-25723,18-07-2018,Foster Stein,IL,Chicago
+B-25605,5/4/2018,Aurora Lin,OK,Oklahoma City
+B-25792,24-09-2018,Abdullah Castillo,IL,Chicago
+B-25680,4/6/2018,Ethan David,TX,Houston
+B-25931,4/1/2018,Leilany Neal,IL,Chicago
+B-25932,4/1/2018,Kane Andersen,TX,Houston
+B-25990,2/2/2018,Zoie Le,CA,Los Angeles
+B-25615,15-04-2018,Melina Wiggins,MA,Boston
+B-26031,22-02-2018,Haylee Kirk,CA,San Jose
+B-25801,1/10/2018,Damien Mills,CA,San Jose
+B-25833,29-10-2018,June Gregory,TX,Houston
+B-26077,22-03-2018,Wrenley Leon,DC,Washington
+B-25936,5/1/2018,Travis Poole,TX,Fort Worth
+B-25938,5/1/2018,Grady Farley,TX,Austin
+B-25716,11/7/2018,Alec Fowler,CO,Denver
+B-25740,3/8/2018,Bonnie Fitzpatrick,IL,Chicago
+B-25763,27-08-2018,Blaze Parks,TX,Dallas
+B-25872,22-11-2018,Viviana Freeman,IL,Chicago
+B-25879,24-11-2018,Mila Livingston,TX,Houston
+B-25926,30-12-2018,Ainsley Grant,TX,Houston
+B-26074,21-03-2018,Harlan Nava,TX,Dallas
+B-25627,23-04-2018,Marlee Chen,TX,Houston
+B-25940,6/1/2018,Leon Wagner,NV,Las Vegas
+B-26047,4/3/2018,Quinn Holloway,TX,Houston
+B-26069,17-03-2018,Moshe Curry,OK,Oklahoma City
+B-26027,20-02-2018,Sierra Jarvis,NC,Charlotte
+B-25963,19-01-2018,Maeve Sanchez,IL,Chicago
+B-25922,26-12-2018,Joseph Zavala,CA,San Diego
+B-25866,16-11-2018,Hayden Baker,TX,Austin
+B-25607,6/4/2018,Bryson Mayo,TN,Nashville
+B-25775,8/9/2018,Liv Cantu,TX,Fort Worth
+B-25998,4/2/2018,Anakin McConnell,IN,Indianapolis
+B-26062,15-03-2018,Kaleb Fleming,NV,Las Vegas
+B-25722,17-07-2018,Denise Pearson,TX,Austin
+B-25776,9/9/2018,Gunner Price,IL,Chicago
+B-26032,22-02-2018,Jett Singh,DC,Washington
+B-25705,30-06-2018,Helena Duarte,TX,Houston
+B-25628,24-04-2018,Jamison Fischer,FL,Jacksonville
+B-25733,28-07-2018,Piper David,IL,Chicago
+B-25647,3/5/2018,Lilian Barr,OH,Columbus
+B-25790,23-09-2018,Alonso Day,FL,Jacksonville
+B-25709,1/7/2018,Hayden Barnes,TX,Houston
+B-25911,15-12-2018,Damian Duncan,CA,San Jose
+B-25774,7/9/2018,Elise Esparza,TX,Fort Worth
+B-26042,28-02-2018,Carl Saunders,TX,Austin
+B-25815,10/10/2018,Taylor Buck,NC,Charlotte
+B-25822,18-10-2018,Meadow Lester,CA,San Francisco
+B-26075,21-03-2018,Lee Xiong,PA,Philadelphia
+B-25783,15-09-2018,Amaya Curry,TX,Houston
+B-26046,4/3/2018,Julian Moses,IL,Chicago
+B-25690,15-06-2018,Amayah Day,TX,Houston
+B-25706,1/7/2018,Kayson Hammond,NV,Las Vegas
+B-25736,31-07-2018,Holly Morse,IL,Chicago
+B-25720,15-07-2018,Bode Gentry,TX,Fort Worth
+B-25907,11/12/2018,Amelie Brady,CA,San Jose
+B-25719,12/7/2018,Ricky Oliver,TX,Houston
+B-26013,13-02-2018,Rhys James,CA,San Jose
+B-26044,2/3/2018,Tristen Osborne,NV,Las Vegas
+B-25649,5/5/2018,Reed Moreno,TX,Fort Worth
+B-25658,14-05-2018,Maren Bautista,DC,Washington
+B-25672,28-05-2018,Mary Wade,TX,San Antonio
+B-25624,22-04-2018,Legacy Stanley,CA,San Francisco
+B-25884,28-11-2018,Jake Snyder,IL,Chicago
+B-25641,27-04-2018,Quinn Stanton,OK,Oklahoma City
+B-25841,1/11/2018,Callie Leach,IL,Chicago
+B-25980,27-01-2018,Helena Duarte,IN,Indianapolis
+B-26012,13-02-2018,Lee Xiong,PA,Philadelphia
+B-26029,20-02-2018,Kobe Bowers,TX,Dallas
+B-26071,19-03-2018,Jamie Esquivel,TN,Nashville
+B-25646,1/5/2018,Rayden Buchanan,FL,Jacksonville
+B-25677,2/6/2018,Jolie Russo,OK,Oklahoma City
+B-25759,23-08-2018,Atticus Hurley,MA,Boston
+B-26059,12/3/2018,Reed Moreno,TX,Fort Worth
+B-25632,25-04-2018,Carl Saunders,TX,Austin
+B-26079,22-03-2018,Wrenley Mosley,CA,San Francisco
+B-25674,28-05-2018,Addison McCullough,PA,Philadelphia
+B-25965,21-01-2018,Westin Day,OK,Oklahoma City
+B-25732,27-07-2018,Hayden Nava,CA,San Francisco
+B-25834,29-10-2018,Stefan Bell,TX,San Antonio
+B-25784,15-09-2018,Melody Salgado,DC,Washington
+B-25982,29-01-2018,Trace Dawson,CA,Los Angeles
+B-25788,21-09-2018,Veronica Potter,CO,Denver
+B-25742,3/8/2018,Lucca Jefferson,NV,Las Vegas
+B-26088,26-03-2018,Melina Wiggins,MA,Boston
+B-25707,1/7/2018,Cleo Sawyer,IL,Chicago
+B-25758,22-08-2018,Jaziel Harrington,TX,Austin
+B-26095,28-03-2018,Jett Singh,DC,Washington
